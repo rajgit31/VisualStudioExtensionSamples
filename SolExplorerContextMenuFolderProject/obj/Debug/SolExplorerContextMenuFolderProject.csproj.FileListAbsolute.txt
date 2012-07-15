@@ -1,0 +1,7 @@
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolExplorerContextMenuFolderProject\bin\Debug\SolExplorerContextMenuFolderProject.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolExplorerContextMenuFolderProject\bin\Debug\SolExplorerContextMenuFolderProject.pdb
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolExplorerContextMenuFolderProject\bin\Debug\SolExplorerContextMenuFolderProject.xml
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolExplorerContextMenuFolderProject\obj\Debug\SolExplorerContextMenuFolderProject.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolExplorerContextMenuFolderProject\obj\Debug\SolExplorerContextMenuFolderProject.csproj.ResolveComReference.cache
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolExplorerContextMenuFolderProject\obj\Debug\SolExplorerContextMenuFolderProject.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolExplorerContextMenuFolderProject\obj\Debug\SolExplorerContextMenuFolderProject.pdb

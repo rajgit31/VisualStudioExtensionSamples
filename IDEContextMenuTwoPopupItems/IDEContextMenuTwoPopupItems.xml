@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IDEContextMenuTwoPopupItems</name>
+    </assembly>
+    <members>
+        <member name="T:IDEContextMenuTwoPopupItems.Connect">
+            <summary>The object for implementing an Add-in.</summary>
+            <seealso class='IDTExtensibility2' />
+        </member>
+    </members>
+</doc>

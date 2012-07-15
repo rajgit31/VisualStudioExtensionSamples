@@ -1,0 +1,6 @@
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenuTwoPopupItems\bin\Debug\IDEContextMenuTwoPopupItems.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenuTwoPopupItems\bin\Debug\IDEContextMenuTwoPopupItems.pdb
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenuTwoPopupItems\bin\Debug\IDEContextMenuTwoPopupItems.xml
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenuTwoPopupItems\obj\Debug\IDEContextMenuTwoPopupItems.csproj.ResolveComReference.cache
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenuTwoPopupItems\obj\Debug\IDEContextMenuTwoPopupItems.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenuTwoPopupItems\obj\Debug\IDEContextMenuTwoPopupItems.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenu\bin\Debug\IDEContextMenu.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenu\bin\Debug\IDEContextMenu.pdb
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenu\bin\Debug\IDEContextMenu.xml
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenu\obj\Debug\IDEContextMenu.csproj.ResolveComReference.cache
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenu\obj\Debug\IDEContextMenu.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\IDEContextMenu\obj\Debug\IDEContextMenu.pdb

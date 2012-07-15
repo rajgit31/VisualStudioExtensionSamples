@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestAddIn1</name>
+    </assembly>
+    <members>
+        <member name="T:TestAddIn1.Connect">
+            <summary>The object for implementing an Add-in.</summary>
+            <seealso class='IDTExtensibility2' />
+        </member>
+    </members>
+</doc>

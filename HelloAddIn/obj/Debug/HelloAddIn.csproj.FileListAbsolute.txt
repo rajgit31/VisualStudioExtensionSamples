@@ -1,0 +1,7 @@
+C:\Users\Raj\documents\visual studio 2012\Projects\TestAddIn\HelloAddIn\bin\Debug\HelloAddIn.dll
+C:\Users\Raj\documents\visual studio 2012\Projects\TestAddIn\HelloAddIn\bin\Debug\HelloAddIn.pdb
+C:\Users\Raj\documents\visual studio 2012\Projects\TestAddIn\HelloAddIn\bin\Debug\HelloAddIn.xml
+C:\Users\Raj\documents\visual studio 2012\Projects\TestAddIn\HelloAddIn\obj\Debug\HelloAddIn.csprojResolveAssemblyReference.cache
+C:\Users\Raj\documents\visual studio 2012\Projects\TestAddIn\HelloAddIn\obj\Debug\HelloAddIn.csproj.ResolveComReference.cache
+C:\Users\Raj\documents\visual studio 2012\Projects\TestAddIn\HelloAddIn\obj\Debug\HelloAddIn.dll
+C:\Users\Raj\documents\visual studio 2012\Projects\TestAddIn\HelloAddIn\obj\Debug\HelloAddIn.pdb

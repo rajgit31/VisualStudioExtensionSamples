@@ -1,0 +1,6 @@
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\TestAddIn\bin\Debug\TestAddIn.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\TestAddIn\bin\Debug\TestAddIn.pdb
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\TestAddIn\bin\Debug\TestAddIn.xml
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\TestAddIn\obj\Debug\TestAddIn.csproj.ResolveComReference.cache
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\TestAddIn\obj\Debug\TestAddIn.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\TestAddIn\obj\Debug\TestAddIn.pdb

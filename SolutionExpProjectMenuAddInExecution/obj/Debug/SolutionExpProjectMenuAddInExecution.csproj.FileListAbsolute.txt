@@ -1,0 +1,6 @@
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolutionExpProjectMenuAddInExecution\bin\Debug\SolutionExpProjectMenuAddInExecution.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolutionExpProjectMenuAddInExecution\bin\Debug\SolutionExpProjectMenuAddInExecution.pdb
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolutionExpProjectMenuAddInExecution\bin\Debug\SolutionExpProjectMenuAddInExecution.xml
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolutionExpProjectMenuAddInExecution\obj\Debug\SolutionExpProjectMenuAddInExecution.csproj.ResolveComReference.cache
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolutionExpProjectMenuAddInExecution\obj\Debug\SolutionExpProjectMenuAddInExecution.dll
+C:\Users\Raj\Documents\Visual Studio 2012\Projects\TestAddIn\SolutionExpProjectMenuAddInExecution\obj\Debug\SolutionExpProjectMenuAddInExecution.pdb
